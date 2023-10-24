@@ -1,4 +1,4 @@
-# Build a movie review web application with client-server separation
+Build a movie review web application with client-server separation
 
 ## Using
 
